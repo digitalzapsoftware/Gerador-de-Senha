@@ -1,2 +1,2 @@
 # Gerador-de-Senha
- Gerador de senha .
+ Gerador de senha 
