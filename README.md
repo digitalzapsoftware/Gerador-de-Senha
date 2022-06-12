@@ -1,3 +1,4 @@
+
 <h1 align='center'>Gerador de Senha</1>
 
 <br/>
@@ -22,3 +23,7 @@ No **Projeto** voce pode escolher a quantidade de senha que vc queira gerar, log
 - [HTML]()
 - [CSS]()
 - [JAVASCRIPT]()
+=======
+# Gerador-de-Senha
+ Gerador de senha 
+>>>>>>> cfdc0df35c7e9dcc2690a8a184d1326dc0ed8aff
