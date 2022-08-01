@@ -1,5 +1,5 @@
 
-<h1 align='center'>Gerador de Senha</1>
+<h1 align='center'>Gerador de Senhas</1>
 <br/>
 <br/>
 <img src='img/Sem título.png'>
